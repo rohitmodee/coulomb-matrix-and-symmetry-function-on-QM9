@@ -10,5 +10,4 @@ Validated set = 13083.
 
 ![image](https://github.com/rohitmodee/coulomb-matrix-and-symmetry-function-on-QM9/assets/24433906/c4fbc9d9-5464-408b-9ead-2c61b772c9c6)
 
-**References**
-1. 
+
