@@ -1,6 +1,8 @@
 # coulomb-matrix-and-symmetry-function-on-QM9
 
-This is a small tutorial where I have computed the coulomb matrix and atom-centered symmetry function (ACSF) descriptor on QM9.
+This is a small tutorial where I have computed the coulomb matrix and atom-centered symmetry function (ACSF) descriptor on QM9. The ACSF descriptor here is Behler Parrinello SF computed using ```torchani``` https://github.com/aiqm/torchani.
+
+The BPFS descriptor is slightly modified. Instead of using different neural networks for each atom-type we incorporate atom charge in the descriptor. 
 
 ```data``` folder contains 3 ```.npz``` files i.e. ```train.npz```, ```valid.npz``` and ```test.npz```. This data was created using https://github.com/vgsatorras/egnn.
 
