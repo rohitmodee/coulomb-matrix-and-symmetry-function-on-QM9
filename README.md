@@ -10,6 +10,8 @@ The results shown below are based on the following.
 Training set = 17748.
 Validated set = 13083.
 
+Some of the code is also adopted from my other repo https://github.com/rohitmodee/DART.
+
 ![image](https://github.com/rohitmodee/coulomb-matrix-and-symmetry-function-on-QM9/assets/24433906/c4fbc9d9-5464-408b-9ead-2c61b772c9c6)
 
 
