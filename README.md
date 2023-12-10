@@ -10,7 +10,7 @@ The results shown below are based on the following.
 Training set = 17748.
 Validated set = 13083.
 
-Some of the code is also adopted from my other repo https://github.com/rohitmodee/DART.
+Some of the code is also adopted from my DART repo https://github.com/rohitmodee/DART. We developed DART model for enenrgy prediction of gallium clusters. You can also check out the paper, DART: deep learning enabled topological interaction model for energy prediction of metal clusters and its application in identifying unique low energy isomers. https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp02956h
 
 ![image](https://github.com/rohitmodee/coulomb-matrix-and-symmetry-function-on-QM9/assets/24433906/c4fbc9d9-5464-408b-9ead-2c61b772c9c6)
 
